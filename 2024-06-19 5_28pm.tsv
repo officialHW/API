@@ -1,0 +1,93 @@
+Location	Weather	Description	Temperature	Pressure	Humidity	Wind_speed	READING_DATE
+Abeokuta	Rain	light rain	26.36	1011	88	2.17	2024-06-19T19:54:24.000Z
+Orogbum	Clouds	overcast clouds	30.1	1011	82	3.06	2024-06-19T19:54:24.000Z
+Maiduguri	Clear	clear sky	37.47	1007	26	4.03	2024-06-19T19:54:25.000Z
+Kano	Clouds	scattered clouds	33.94	1011	49	1.54	2024-06-19T19:54:26.000Z
+Katsina	Clouds	scattered clouds	37.59	1007	21	1.73	2024-06-19T19:54:26.000Z
+Nnewi	Rain	light rain	25.52	1011	93	2.39	2024-06-19T19:54:26.000Z
+Agbor	Rain	light rain	24.51	1011	96	2.33	2024-06-19T19:54:26.000Z
+Ikeja	Rain	light rain	30.99	1010	74	3.6	2024-06-19T19:54:26.000Z
+Delta	Rain	light rain	25.51	1011	92	1.45	2024-06-19T19:54:26.000Z
+Akure	Rain	light rain	23.8	1012	95	1.78	2024-06-19T19:54:27.000Z
+Ishie Town	Clouds	broken clouds	30.12	1010	74	5.14	2024-06-19T19:54:27.000Z
+Sapele	Rain	light rain	25.8	1011	90	1.76	2024-06-19T19:45:43.000Z
+Orita Eruwa	Rain	light rain	26.23	1011	84	3.24	2024-06-19T19:54:27.000Z
+Wudil	Clouds	scattered clouds	34.34	1007	26	2.72	2024-06-19T19:46:01.000Z
+Onitsha	Rain	light rain	25.48	1011	92	2.45	2024-06-19T19:46:02.000Z
+Zaria	Clouds	few clouds	32.47	1008	35	0.36	2024-06-19T19:46:02.000Z
+Jos	Clouds	few clouds	24.28	1011	59	1.28	2024-06-19T19:46:02.000Z
+Kaduna	Clouds	broken clouds	29.41	1009	54	3.58	2024-06-19T19:46:03.000Z
+Minna	Clouds	few clouds	32.12	1010	62	2.57	2024-06-19T19:46:03.000Z
+Sokoto	Clouds	few clouds	37.26	1007	30	3.4	2024-06-19T19:46:04.000Z
+Iwo	Clouds	overcast clouds	25.52	1011	88	2.47	2024-06-19T19:46:04.000Z
+Yola	Clouds	overcast clouds	33.49	1007	41	1.17	2024-06-19T19:46:04.000Z
+Benin City	Rain	light rain	24.71	1011	96	1.51	2024-06-19T19:46:05.000Z
+Ondo	Rain	light rain	24	1012	96	1.56	2024-06-19T19:46:05.000Z
+Warri	Rain	light rain	25.95	1011	88	2	2024-06-19T19:46:05.000Z
+Jos	Clouds	few clouds	24.38	1011	58	1.47	2024-06-19T19:46:06.000Z
+Emene	Rain	light rain	32.92	1009	55	1.54	2024-06-19T19:46:06.000Z
+Ebute Ikorodu	Rain	light rain	30.99	1011	80	4.11	2024-06-19T19:46:07.000Z
+Owerri	Rain	light rain	25.67	1011	90	2.28	2024-06-19T19:46:07.000Z
+Bauchi	Clouds	few clouds	29.76	1009	49	2.4	2024-06-19T19:46:07.000Z
+Bida	Clouds	overcast clouds	30.23	1009	62	1.27	2024-06-19T19:46:08.000Z
+Ado-Ekiti	Rain	light rain	24.09	1011	91	1.74	2024-06-19T19:46:08.000Z
+Gombe	Clear	clear sky	32.64	1008	41	2.04	2024-06-19T19:46:08.000Z
+Sapele	Rain	light rain	25.8	1011	90	1.81	2024-06-19T19:46:09.000Z
+Ebute Ikorodu	Rain	light rain	31.15	1011	81	5.24	2024-06-19T19:46:09.000Z
+Ilorin	Clouds	few clouds	31.2	1010	62	2.57	2024-06-19T19:45:20.000Z
+Patani	Rain	light rain	25.5	1011	92	1.65	2024-06-19T19:46:11.000Z
+Birnin Kebbi	Clouds	overcast clouds	35.93	1007	35	6.17	2024-06-19T19:46:11.000Z
+Anchau	Clouds	broken clouds	32.3	1008	33	2.93	2024-06-19T19:46:12.000Z
+Abuja	Clouds	broken clouds	30.06	1011	78	1.53	2024-06-19T19:46:12.000Z
+Kaura Namoda	Clear	clear sky	36.78	1007	28	2.72	2024-06-19T19:46:12.000Z
+Ogbomoso	Clouds	broken clouds	30.92	1011	78	2.86	2024-06-19T19:46:13.000Z
+Ebute Ikorodu	Rain	light rain	31.14	1011	84	4.83	2024-06-19T19:46:13.000Z
+Lagos	Rain	light rain	31.18	1010	74	3.6	2024-06-19T19:41:53.000Z
+Awka	Rain	light rain	25.85	1011	90	2.22	2024-06-19T19:46:13.000Z
+Ibadan	Rain	light rain	24.76	1011	93	2.21	2024-06-19T19:46:13.000Z
+Abeokuta	Rain	light rain	26.36	1011	88	2.17	2024-06-19T19:45:55.000Z
+Orogbum	Clouds	overcast clouds	30.1	1011	82	3.06	2024-06-19T19:45:55.000Z
+Maiduguri	Clear	clear sky	37.47	1007	26	4.03	2024-06-19T19:45:55.000Z
+Kano	Clouds	scattered clouds	33.94	1011	49	1.54	2024-06-19T19:45:57.000Z
+Katsina	Clouds	scattered clouds	37.59	1007	21	1.73	2024-06-19T19:45:57.000Z
+Nnewi	Rain	light rain	25.52	1011	93	2.39	2024-06-19T19:45:58.000Z
+Agbor	Rain	light rain	24.51	1011	96	2.33	2024-06-19T19:45:58.000Z
+Ikeja	Rain	light rain	30.99	1010	74	3.6	2024-06-19T19:45:59.000Z
+Delta	Rain	light rain	25.51	1011	92	1.45	2024-06-19T19:45:59.000Z
+Akure	Rain	light rain	23.8	1012	95	1.78	2024-06-19T19:46:00.000Z
+Ishie Town	Clouds	broken clouds	30.12	1010	74	5.14	2024-06-19T19:46:00.000Z
+Sapele	Rain	light rain	25.8	1011	90	1.76	2024-06-19T19:46:01.000Z
+Orita Eruwa	Rain	light rain	26.23	1011	84	3.24	2024-06-19T19:46:01.000Z
+Wudil	Clouds	scattered clouds	34.34	1007	26	2.72	2024-06-19T19:46:01.000Z
+Onitsha	Rain	light rain	25.48	1011	92	2.45	2024-06-19T19:46:02.000Z
+Zaria	Clouds	few clouds	32.47	1008	35	0.36	2024-06-19T19:46:02.000Z
+Jos	Clouds	few clouds	24.28	1011	59	1.28	2024-06-19T19:46:02.000Z
+Kaduna	Clouds	broken clouds	29.41	1009	54	3.58	2024-06-19T19:46:03.000Z
+Minna	Clouds	few clouds	32.12	1010	62	2.57	2024-06-19T19:46:03.000Z
+Sokoto	Clouds	few clouds	37.26	1007	30	3.4	2024-06-19T19:46:04.000Z
+Iwo	Clouds	overcast clouds	25.52	1011	88	2.47	2024-06-19T19:46:04.000Z
+Yola	Clouds	overcast clouds	33.49	1007	41	1.17	2024-06-19T19:46:04.000Z
+Benin City	Rain	light rain	24.71	1011	96	1.51	2024-06-19T19:46:05.000Z
+Ondo	Rain	light rain	24	1012	96	1.56	2024-06-19T19:46:05.000Z
+Warri	Rain	light rain	25.95	1011	88	2	2024-06-19T19:46:05.000Z
+Jos	Clouds	few clouds	24.38	1011	58	1.47	2024-06-19T19:46:06.000Z
+Emene	Rain	light rain	32.92	1009	55	1.54	2024-06-19T19:46:06.000Z
+Ebute Ikorodu	Rain	light rain	30.99	1011	80	4.11	2024-06-19T19:46:07.000Z
+Owerri	Rain	light rain	25.67	1011	90	2.28	2024-06-19T19:46:07.000Z
+Bauchi	Clouds	few clouds	29.76	1009	49	2.4	2024-06-19T19:46:07.000Z
+Bida	Clouds	overcast clouds	30.23	1009	62	1.27	2024-06-19T19:46:08.000Z
+Ado-Ekiti	Rain	light rain	24.09	1011	91	1.74	2024-06-19T19:46:08.000Z
+Gombe	Clear	clear sky	32.64	1008	41	2.04	2024-06-19T19:46:08.000Z
+Sapele	Rain	light rain	25.8	1011	90	1.81	2024-06-19T19:46:09.000Z
+Ebute Ikorodu	Rain	light rain	31.15	1011	81	5.24	2024-06-19T19:46:09.000Z
+Ilorin	Clouds	few clouds	31.2	1010	62	2.57	2024-06-19T19:45:20.000Z
+Patani	Rain	light rain	25.5	1011	92	1.65	2024-06-19T19:46:11.000Z
+Birnin Kebbi	Clouds	overcast clouds	35.93	1007	35	6.17	2024-06-19T19:46:11.000Z
+Anchau	Clouds	broken clouds	32.3	1008	33	2.93	2024-06-19T19:46:12.000Z
+Abuja	Clouds	broken clouds	30.06	1011	78	1.53	2024-06-19T19:46:12.000Z
+Kaura Namoda	Clear	clear sky	36.78	1007	28	2.72	2024-06-19T19:46:12.000Z
+Ogbomoso	Clouds	broken clouds	30.92	1011	78	2.86	2024-06-19T19:46:13.000Z
+Ebute Ikorodu	Rain	light rain	31.14	1011	84	4.83	2024-06-19T19:46:13.000Z
+Lagos	Rain	light rain	31.18	1010	74	3.6	2024-06-19T19:41:53.000Z
+Awka	Rain	light rain	25.85	1011	90	2.22	2024-06-19T19:46:13.000Z
+Ibadan	Rain	light rain	24.76	1011	93	2.21	2024-06-19T19:46:13.000Z
